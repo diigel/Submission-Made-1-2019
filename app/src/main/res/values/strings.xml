@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">SubmissionMADE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="movie_name">
+        <item> Head Shot </item>
+        <item> Triple Treat </item>
+        <item> The Night Comes For Us </item>
+        <item> Merantau </item>
+        <item> Mile 22 </item>
+        <item> The Raid 2 </item>
+        <item> Frank Grillo Beyond Skyline </item>
+        <item> The Raid </item>
+        <item> Avengers </item>
+        <item> Avengers 2 </item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Seorang dokter muda merawat sesosok pria tak dikenal yang terluka parah dan kehilangan ingatannya. Tak lama beberapa orang datang mencarinya dan menculik si dokter - membuatnya tak punya pilihan lain.</item>
+        <item>Xian (Celina Jade) adalah anak dari seorang milyuner yang nyawanya terancam. Ia akhirnya meminta bantuan kepada sekelompok pembunuh bayaran (Iko Uwais, Tony Jaa dan Tiger Hu Chen). Ketiganya akan berhadapan dengan sekelompok pembunuh bayaran lainnya (Scott Adkins, Michael Jai White, Michael Bisping) yang memiliki misi membunuh Xian.</item>
+        <item>Film aksi yang melibatkan dua aktor laga, Iko Uwais dan Joe Taslim ini tampil sengit memainkan peran masing-masing. Buat kamu yang belum nonton, berikut sepenggal ulasan atau review The Night Comes for Us.</item>
+        <item>Seorang pemuda dari desa menggunakan kemampuan beladirinya untuk menyelamatkan diri dari dijual sebagai budak.</item>
+        <item>Seorang agen CIA, James Silva (Mark Wahlberg) dibantu unit komando taktis rahasia ditugaskan untuk menyeludupkan membawa seorang polisi bernama Li Noor (Iko Uwais) yakni saksi kunci atau informan penting, dari pusat kota menuju pesawat yang sudah menunggunya di bandara. Jarak yang mereka tempuh dari pusat kota ke bandara yakni 22 mil.</item>
+        <item>Dalam sekuel film laga ini, Rama dikirim menyamar untuk membasmi pejabat polisi yang korup dan komplotan geng dunia kriminal bawah tanah.</item>
+        <item>Seorang detektif tangguh (Frank Grillo) melakukan perjalanan untuk sebuah misi pengejaran tanpa henti untuk membebaskan anaknya yang dibawa oleh sebuah kapal perang alien. Dengan bantuan Sua (Iko Uwais), mereka berjuang untuk menyelamatkan sang anak dan warga lainnya.</item>
+        <item>Setelah terjebak di dalam sebuah rumah persembunyian mafia berlantai 15 milik Tama, kini Rama dan timnya harus bertarung mati-matian untuk membekuk mereka - sekaligus berjuang untuk bertahan hidup.</item>
+        <item>etika musuh yang tak terduga muncul, mengancam keselamatan dan keamanan dunia, Nick Fury, direktur Badan Perdamaian Internasional, dikenal sebagai S.H.I.E.L.D. , membutuhkan tim untuk menyelamatkan dunia dari bencana. Usaha perekrutan pun dimulai Iron Man, Captain America, Hulk, Thor, Black Widow dan Hawkeye dikumpulkan untuk menaklukkan Dewa Kehancuran, Loki, dalam usahanya menghancurkan bumi. Dengan semua gabungan kekuatan, tugas nampak lebih mudah. Namun kenyatannya tidak demikian! Para pahlawan super justru saling melawan satu sama lain Hulk melawan Captain America, siapa yang akan menang? Apakah Iron Man dapat mengalahkan kekuatan super milik Thor? Bagaimana para pahlawan super ini secara bersama-sama menghadapi bencana, melindungi masyarakat dan yang terpenting, bertahan hidup?</item>
+        <item>Tony Stark membangun sistem kecerdasan buatan bernama Ultron dengan bantuan Bruce Banner. Namun, Ultron mengambil alih kendali dan Avengers harus menghentikannya sebelum memusnahkan umat manusia.</item>
+    </string-array>
+
+    <string-array name="movie_photo">
+        <item>@drawable/movie1</item>
+        <item>@drawable/movie2</item>
+        <item>@drawable/movie3</item>
+        <item>@drawable/movie4</item>
+        <item>@drawable/movie5</item>
+        <item>@drawable/movie6</item>
+        <item>@drawable/movie7</item>
+        <item>@drawable/movie8</item>
+        <item>@drawable/movie9</item>
+        <item>@drawable/movie10</item>
+    </string-array>
+
+    <string-array name="movie_genre">
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+        <item> Action </item>
+    </string-array>
+
+    <string-array name="tgl_rilis">
+        <item>8 Desember 2016</item>
+        <item>20 Maret 2019</item>
+        <item>22 September 2018</item>
+        <item>6 Agustus 2009</item>
+        <item>21 Agustus 2018</item>
+        <item>28 Maret 2014</item>
+        <item>31 Oktober 2017</item>
+        <item>23 Maret 2012</item>
+        <item>11 April 2012</item>
+        <item>22 April 2015</item>
+    </string-array>
+
+
+
+
+</resources>
